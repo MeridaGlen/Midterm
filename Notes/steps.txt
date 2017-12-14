@@ -1,1 +1,4 @@
-aa
+First I Log-in my account in github then i create repository "Midterm" in github then then i create to my local storage "Merida" directory then i clone the "Midterm" repo
+to my local storage github using gitbash "git clone https:github.com/MeridaGlen/Midterm" then "ls" to show it's in. Then i create "index.html" to "github.com" then i type "git fetch" to fetch cloud data
+to my local storage then "git status" then "git pull origin" then i make directory "mkdir Exam and mkdir Notes" indside then i create files "midterm-handson-exam.py
+and midterm-written-exam.txt" to directory "Exam" then create also for directory notes "detail.txt and steps.txt" then "git add ." then "git push origin master" to update.   
